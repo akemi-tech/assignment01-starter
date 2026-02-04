@@ -14,7 +14,9 @@ In this assignment, you'll work with AI coding assistants to create a new MCMC s
 ## Structure
 
 ```
+├── assignment-01.pdf             # Assignment description
 ├── assignment-01-starter.ipynb   # Starter code with baselines and benchmarks
+├── requirements.txt              # Python dependencies
 └── report/
     ├── report.tex                # Your report (NeurIPS format)
     └── neurips_2025.sty          # LaTeX style file
